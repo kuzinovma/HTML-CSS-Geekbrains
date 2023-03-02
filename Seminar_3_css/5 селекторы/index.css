@@ -1,0 +1,50 @@
+div {
+    font-size: 24px;
+}
+
+#myblock {
+    color: green;
+}
+
+.mysuperclass {
+    width: 50%;
+    color: red;
+    background: #ccc;
+    margin-bottom: 10px;
+}
+
+.hello {
+    font-size: 35px;
+}
+
+.world {
+    font-style: italic;
+}
+
+img {
+    width: 200px;
+}
+
+img[alt="flower"] {
+    border-radius: 50px;
+}
+
+input[type="text"] {
+    width: 50%;
+    height: 50px;
+} 
+
+/* ^-начинается с ... */
+p[class^="myparag"] {
+    color: #baad1f;
+}
+
+/* *- содержит... */
+a[href*="good"] {
+    color: green;
+}
+
+/* $- заканчивается на... */
+a[href$="org"] {
+    color: red;
+}

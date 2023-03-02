@@ -1,0 +1,14 @@
+p {
+    color: red;
+    font-size: 28px;
+}
+
+h1 {
+    color: purple;
+    font-variant: small-caps;
+}
+
+strong {
+    text-decoration: underline;
+    font-style: italic;
+}

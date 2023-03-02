@@ -1,0 +1,12 @@
+h1, h3, p {
+    text-align: center;
+    color: blue;
+}
+
+h3 {
+    font-family: Arial, sans-serif;
+}
+
+p {
+    font-size: 12px;
+}

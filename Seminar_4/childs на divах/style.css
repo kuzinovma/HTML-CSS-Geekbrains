@@ -1,0 +1,35 @@
+.container {
+    width: 960px;
+    margin: 20px auto 0 auto;
+    background: #747376;
+    overflow: hidden;
+}
+
+.productUnit {
+    width: 30%;
+    float: left;
+    margin-right: 5%;
+    height: 200px;
+    background: orange;
+}
+
+.productUnit:nth-child(n+4) {
+    margin-top: 20px;
+}
+
+/* все элементы кроме каждого 3 */
+/* .productUnit:not(nth-child()) {
+    margin-right: 0;
+} */
+
+.productUnit:nth-child(3n) {
+    margin-right: 0;
+}
+
+.productUnit:first-child {
+    background: green;
+}
+
+.productUnit:last-child {
+    background: blue;
+}

@@ -1,0 +1,16 @@
+div {
+    font-size: 24px;
+}
+
+p {
+    width: 50%;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+/* rem увеличивает шрифт элемента в зависимости от корневого шрифта (html), если 2rem то 2 на 16=32 */
+#special {
+    font-size: 2rem; 
+}

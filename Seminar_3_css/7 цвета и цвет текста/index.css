@@ -1,0 +1,17 @@
+/* ctrl+пробел - смотретьв се цвета */
+.named {
+    color: green;
+}
+
+.rgbcolors {
+    color: rgb(255, 130, 0);
+}
+
+.hexadecimals {
+    color: #a354cc;
+}
+
+/* 0.5 отвечает за прозрачность */
+.rgbAcolors {
+    color: rgba(255, 130, 0, 0.5);
+}

@@ -1,0 +1,27 @@
+body > form[action="formHandler.php"] input#myinput[type="text"][required]{
+    background: peachpuff;
+}    
+
+form[action="formHandler.php"] input#myinput[type="text"][required]{
+    background: peachpuff;
+}    
+
+form[action="formHandler.php"] input[type="text"][required]{
+    background: purple;
+}    
+
+form[action="formHandler.php"] input[type="text"]{
+    background: red;
+}
+
+form[action="formHandler.php"] input {
+    background: aqua;
+}
+
+form input {
+    background: yellow;
+}
+
+input {
+    background: #2e6da4;
+}

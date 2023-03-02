@@ -1,0 +1,7 @@
+p {
+    background: #ceffb7;
+}
+
+p:hover a {
+    background: yellow;
+}

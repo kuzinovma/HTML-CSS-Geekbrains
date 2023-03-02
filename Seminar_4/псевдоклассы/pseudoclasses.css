@@ -1,0 +1,24 @@
+/* при наведениина ссылку цвет изменится */
+a:hover {
+    color: red;
+}
+
+/* при нажатии на ссылку цвет станет таким */
+a:active {
+    color: green;
+}
+
+/* все Не посещенные ссылки будут такого цвета */
+a:link {
+    color: orange;
+}
+
+/* уже посещенная ссылка поменяет цвет */
+a:visited {
+    color: blue;
+    font-size: 30px;
+}
+
+input:focus {
+    background: aquamarine;
+}

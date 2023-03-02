@@ -1,0 +1,10 @@
+/* https://www.patterncooler.com/ */
+
+/* vh - viewport hight */
+body {
+    height: 100vh;
+    margin: 0;
+    background: url(1.jpg) no-repeat;
+    background-position: center center;
+    background-size: cover;
+}

@@ -1,0 +1,15 @@
+.alignment {
+    text-align: center;
+}
+
+.decoration {
+    text-decoration: none;
+}
+
+.transformation {
+    text-transform: uppercase;
+}
+
+.wide {
+    text-align: justify;
+}

@@ -1,0 +1,29 @@
+.one {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+.two {
+    font-family: serif;
+}
+
+.three {
+    font-family: sans-serif;
+}
+
+.four {
+    font-family: cursive;
+}
+
+.five {
+    font-family: fantasy;
+}
+
+.six {
+    font-family: monospace;
+}
+
+.seven {
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bold;
+}
