@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+.flexContainer {
+    margin: 50px;
+    width: 500px;
+    height: 400px;
+    background: #716ccc;
+    display: flex;
+    /* row, column */
+    flex-direction: row;
+    /* flex-start, flex-end */
+    justify-content: center;
+    align-items: stretch;
+}
+
+.flexBlock {
+    width: 40px;
+    height: 100px;
+}
+
+.flexBlock {
+    display: block;
+}
+ .flexBlock1 {
+    background: orange;
+ }
+
+ .flexBlock2 {
+    background: greenyellow;
+ }
+
+ .flexBlock3 {
+    background: blue;
+ }

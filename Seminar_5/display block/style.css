@@ -1,0 +1,7 @@
+a {
+    display: block;
+    background-color: #ccc;
+    width: 100px;
+    height: 40px;
+    border-radius: 10%;
+}

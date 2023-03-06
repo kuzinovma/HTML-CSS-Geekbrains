@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    padding: 0 200px;
+}
+
+li {
+    display: inline-block;
+    background: #ff8b00;
+    padding: 10px;
+    margin: 0 15px;
+}
+
+.inlineBlock {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    background: #ccc;
+}

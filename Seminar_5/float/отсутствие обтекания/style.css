@@ -1,0 +1,26 @@
+body {
+    display: block;
+    margin: 8px;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    margin-right: 15px;
+    border: 1px solid #000;
+    float: left;
+}
+
+h1 {
+    border: 1px solid #f00;
+    /* clear: both; запрет пересечения */
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
