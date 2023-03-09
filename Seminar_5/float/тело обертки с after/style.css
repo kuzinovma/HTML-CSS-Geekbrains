@@ -1,0 +1,13 @@
+.child {
+    width: 150px;
+    height: 150px;
+    background: green;
+    margin: 10px;
+    float: left;
+}
+
+.wrap::after {
+    content: '';
+    clear: both;
+    display: block;
+}
